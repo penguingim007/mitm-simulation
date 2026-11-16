@@ -1,12 +1,10 @@
 # Man-in-the-Middle Simulation
 
-Eine statische, mobile Lernsimulation auf einer einzelnen HTML-Seite. Die App nutzt keine externen Dienste, sendet keine Nachrichten und enthält keinen echten Netzwerkverkehr.
+Öffentliche, mobile Lernsimulation zu MitM-Angriffen: https://penguingim007.github.io/mitm-simulation/
+
+Wähle HTTP oder HTTPS/TLS, sende eine Beispielnachricht und simuliere, was ein Mittelsmann sehen oder verändern kann. Die Anwendung sendet keine Daten und erzeugt keinen echten Netzwerkverkehr.
 
 ## Lokal öffnen
 
 `index.html` in einem aktuellen Browser öffnen.
-
-## Öffentlich veröffentlichen
-
-Den Inhalt dieses Ordners auf einen statischen Webhoster veröffentlichen. Als Startdatei dient `index.html`. Danach muss der QR-Code in der Präsentation auf die endgültige HTTPS-Adresse verweisen.
 
